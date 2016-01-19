@@ -1,9 +1,12 @@
 CACHE MANIFEST
 #2016-18-01 v1.0.0
-
+/css/
+/js/
+/fonts/
 
 NETWORK:
-
+*
 
 FALLBACK:
-offline.html
+//offline.html
+/img/beers/ /img/offline/beer.png
